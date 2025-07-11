@@ -7,66 +7,94 @@
 
 ## 🧭 About Me
 
-I'm a 20-year-old independent researcher working at the intersection of neuroscience, brain signal processing, and reproducible computational methods.
+I'm a 20-year-old independent researcher working at the intersection of neuroscience, brain signal processing, genetics, and reproducible computational methods.
 
-My work focuses on:
-- 🧠 **Functional neuroimaging signal modeling** (ICA, BOLD, connectivity metrics)
-- 📊 **Meta-analytic methodology** across studies, features, and modalities
-- 🛠 **Transparent neuroimaging toolchains**, engineered from scratch
+My work focuses on:  
+- 🧠 **Functional neuroimaging signal modeling** (ICA, BOLD, connectivity metrics)  
+- 📊 **Meta-analytic methodology** across studies, features, and modalities  
+- 🧬 **Genetic epidemiology & causal inference** (Mendelian Randomization)  
+- 🛠 **Transparent neuroimaging toolchains**, engineered from scratch  
 - 🌐 **Independent architectures** for decentralized, open research
 
 > I don't wait for permission. I build what I need to explore what matters.
 
 ---
 
-## 🔬 Projects
+## 🔬 Main Projects
 
-### [NMAP-Fusion](https://github.com/NeuroMAP-Lab/NMAP-Fusion)  
-> A modular framework for multi-domain, meta-analytic fusion of functional brain data.
+### 🚀 NeuroCompass  
+[![CI Status](https://github.com/Ruri-jiale/NeuroCompass/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Ruri-jiale/NeuroCompass/actions)
 
-- 📚 Registered in [PROSPERO (CRD420251044665)](https://www.crd.york.ac.uk/PROSPERO/view/CRD420251044665)  
-- 📦 Public release: [Zenodo v0.2](https://zenodo.org/records/15355619)  
-- 🔧 Structural modeling logic under active development
+> 💡 A transparent, minimalistic neuroimaging “compass” for reproducible and interpretable preprocessing & modeling pipelines.  
+
+**🚧 Status:** Core modules implemented and undergoing comprehensive testing. **v1.0 release coming soon!**
+
+#### 🔍 Key Highlights
+
+- **Prototype → Product**  
+  – Originated as *fsl-mini-arch* during prototyping  
+  – Renamed to **NeuroCompass** to reflect its role as a modular “compass”  
+
+- **Built from Scratch**  
+  – Full autonomy, no heavyweight black-box dependencies  
+  – Modular design: motion correction, preprocessing interfaces, analysis chaining  
+
+- **Quality-Driven Roadmap**  
+  - 📦 Initial release complete  
+  - ✅ Core motion & preprocessing modules in place  
+  - 🔄 Integration & validation tests in progress  
+  - 📝 Documentation & examples coming  
+  - 🚀 v1.0 tagging & release pending  
 
 ---
 
-### fsl-mini-arch *(coming soon)*  
-> A minimalistic, open-source neuroimaging architecture reimagined from the ground up.
+### 🔒 TFSI  _(private)_
+> **Target Functional Stimulation Index**: precision neuromodulation targeting integrating meta-analysis, connectivity, and task modeling.
 
-- 🧱 Built for reproducibility and modular clarity  
-- 🗓️ Target: v0.1 (July 2025)  
-- 🔒 Repo status: private (early design locked)
-
----
-
-### TFSI *(coming soon)*  
-> A separate automated meta-analysis pipeline — faster, more lightweight than NMAP.
+- Activation meta-analyses + resting-state connectivity + cognitive relevance  
+- For non-invasive brain stimulation, acupuncture, DBS planning  
+- Repository created, under closed development  
 
 ---
 
-### 🧪 Reproducible Research
+### 🔒 MRForge  _(private)_
+> Toolkit for manipulating, validating, and reconstructing MRI signal components.
 
-All future research publications — including methodological and experimental studies — will be accompanied by open-source code and replication materials hosted under this account.
+- Phase/magnitude/residual dissection, encoding introspection, artifact modeling  
+- Slides drafted; codebase under construction  
 
-📁 Code and data for each paper will be organized in dedicated repositories.  
-🔔 Stay tuned — reproducibility isn’t optional, it’s the baseline.
+---
+
+### NMAP-Fusion  
+> Modular framework for multi-domain, meta-analytic fusion of functional brain data.
+
+- 📚 Registered in PROSPERO (CRD420251044665)  
+- 📦 Released on Zenodo v0.2  
+- 🔧 Structural modeling logic under active development  
+
+---
+
+## 🧪 Reproducible Research
+
+All future publications — methodological or experimental — will ship with open-source code and replication materials.
+
+📁 Dedicated repos per paper | 🔔 Reproducibility is the baseline
 
 ---
 
 ## 📝 Peer Review
 
-- 🧾 Peer Reviewer @ *Frontiers* (Neuroscience & AI-related journals)  
+- 🧾 Reviewer @ *Frontiers* (Neuroscience & AI)  
 - Reviewed 6+ manuscripts (2024–2025)  
-- Topics: Functional imaging, reproducibility, computational psychiatry
+- Focus: Functional imaging, reproducibility, computational psychiatry
 
-> Reviewing is not gatekeeping — it’s stewardship. I review for clarity, fairness, and truth.
+> Reviewing is stewardship, not gatekeeping.
 
 ---
 
 ## 📊 Data Science Side Work
 
-Outside neuroscience, I also explore modeling and signal-oriented computation.  
-Occasional notebooks and prototypes live here:
+Modeling & signal-oriented computation experiments:
 
 🔗 [Kaggle @ mokuyojiale](https://www.kaggle.com/mokuyojiale)
 
@@ -74,8 +102,8 @@ Occasional notebooks and prototypes live here:
 
 ## 📫 Contact & Research ID
 
-- 📧 Email: **jlchen7080@gmail.com**  
-- 🔗 ORCID: [0009-0008-3902-9675](https://orcid.org/0009-0008-3902-9675)
+- 📧 jlchen7080@gmail.com  
+- 🔗 [ORCID:0009-0008-3902-9675](https://orcid.org/0009-0008-3902-9675)
 
 ---
 
@@ -84,8 +112,6 @@ Occasional notebooks and prototypes live here:
 > “Build quietly. Publish clearly. Defend fiercely.”  
 > “Science is not a privilege — it’s a right.”  
 > “If I must protect what I build, then so be it.”
-
----
 
 🔬 *Built in resistance, for clarity in science.*  
 🛡 *You may look — but you will not take.*  
