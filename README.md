@@ -3,6 +3,10 @@
 Independent Researcher in Neuroimaging & Computational Neuroscience
 Open Science • Reproducible Methods • Meta-analytic Design
 
+**Professional Identity**: Jiale Chen (ORCID, publications, peer review)
+**Community Alias**: JL_Mokuyo (Kaggle, online discussions)
+**GitHub**: [@Ruri-jiale](https://github.com/Ruri-jiale)
+
 ---
 
 ## About Me
@@ -50,9 +54,9 @@ Proprietary biomedical literature mining pipeline for PubMed data classification
 
 Core meta-analysis engine implementing Activation Likelihood Estimation (ALE) algorithms for coordinate-based neuroimaging research.
 
-**Performance**: 8,000-13,000 coordinates/second on standard datasets
+**Validation**: Algorithm accuracy r=0.938, Dice=0.955 against GingerALE reference using BrainMap data (737 coordinates, 21 studies)
 
-**Validation**: Algorithm accuracy r=0.938, Dice=0.955 against GingerALE reference using BrainMap data
+**Performance**: Processing efficiency ranges from 34-122 coords/sec depending on dataset size and FWHM configuration
 
 Python implementation with Numba JIT compilation. Supports batch processing and automated result reporting.
 
